@@ -86,7 +86,7 @@
 				<image resource="terminal_background"/>
 				<placement x="0" y="0" placement="0"/>
 			</image>
-			<font resource="fixed" spacing="3" color="%text_color%"/>
+			<font resource="fixed" spacing="3" color="%terminal_text_color%"/>
 		</style>
 
 		<style name="fileselector">
